@@ -1,4 +1,4 @@
-﻿#General Remarks on Java
+#General Remarks on Java
 
 In comparision to C++,C#, PHP and Typescript or things that surprised me
 
@@ -6,6 +6,10 @@ In comparision to C++,C#, PHP and Typescript or things that surprised me
 	- Classes:				  CamelCase
 	- Variables and Methods:  camelCase
 	- Const 			   :  UPPPER_CHARS
+
+#Interesting Frameworks to 
+	- RestX
+
 
 ##Missing features
 	- an auto variable like var or let or auto 
