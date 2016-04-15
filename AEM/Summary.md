@@ -145,7 +145,7 @@ Java-backend:
     - currentDesign
     - currentNode
     - component
-    
+
 
 ### Expression Options
 
@@ -235,8 +235,16 @@ and the array can be accessed dynamically:
 
 ### Usage of external functions
 
+5 ways are explained in [Sightly intro part 4](http://blogs.adobe.com/experiencedelivers/experience-management/sightly-intro-part-4/)
 
 
+In general: Implement the use Interface on the Javaclass and then call the methods of the component.
+
+
+
+### Misc
+
+Some misc/common tricks can be found [here](http://blogs.adobe.com/experiencedelivers/experience-management/sightly-intro-part-5-faq/)
 
 
 
