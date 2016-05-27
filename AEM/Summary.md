@@ -201,8 +201,8 @@ For example, the p element and its content will only be rendered if isShown is t
 <p data-sly-test="${isShown}">text</p>
 ```
 
-Test result can be assigned to a variable to mimic else statement. *There is no actual else statement*
-
+Test result can be assigned to a variable to mimic else statement. *There is no actual else statement
+*
 ```html
 <p data-sly-test.abc="${a || b || c}">is true</p>
 <p data-sly-test="${!abc}">or not</p>
@@ -230,7 +230,9 @@ and the array can be accessed dynamically:
 </dl>
 ```
 
-
+Item can be name differently like 
+```
+data-sly-list.parentItem
 
 
 ### Usage of external functions
@@ -255,6 +257,7 @@ Some misc/common tricks can be found [here](http://blogs.adobe.com/experiencedel
 
 
 
-
+#Interesting Links:
+Search for: adobe widget api aem 6.0
 
 
